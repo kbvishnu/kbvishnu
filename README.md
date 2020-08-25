@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-I am Vishnu KB.
+Vishnu KB.
+SON|BROTHER|HUSBAND|FATHER
+
 Passionate devloper working on Microsoft Platforms as backend and JavaScript frameworks for Front End.
+Apart from programming, I loves to travel, reading and cooking. 
+Trying to being human
 <!--
 **kbvishnu/kbvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
