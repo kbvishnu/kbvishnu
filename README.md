@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Vishnu KB.
+Passionate devloper working on Microsoft Platforms as backend and JavaScript frameworks for Front End.
 <!--
 **kbvishnu/kbvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
