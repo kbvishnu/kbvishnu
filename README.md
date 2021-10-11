@@ -1,10 +1,27 @@
 # Kalathil Karottu Balachandran Vishnu (kbvishnu)
 
+### Mission 
+An enthusiastic technical & business consultant delivering cost effective and efficient
+solutions to boost the business irrespective of technology stack & tools.
+
+A compassionate human being interested in associating with promotion of child
+education, human rights and open source.
+
+### Professional Summary
+- Full Stack Senior Lead Developer with 11 years of overall professional experience in IT
+practicing Servant Leadership & Agile delivery.
+- Strategized, designed, and deployed innovative solutions for Fortune 500 clients
+leveraging responsive web apps, micro services & cloud.
+- Developed enterprise architectural blueprints, along with descriptive documentation for
+all stakeholders.
+- Prepared and managed Project Plan, Budget, Risk log, Issues log, Status reports and
+meetings with customer as well as offshore team.
+
 ### Full stack application developer
-- **Front end:** React JS, Angular JS, Microsoft MVC
+- **Front end:** React JS, Angular JS, Microsoft MVC, ASP.NET WebForms
 - **Back end for front end:** WebAPI, API, Node JS, GraphQL, WCF
-- **Back end:** MS SQL Server (TSQL), Amazon RDS(SQL), Amazon Dynamo DB, S3
-- **CI/CD:** AWS Codebuild/Codepiepline, Docker, jFrog Artifactory, Azure Pipelines
+- **Back end:** MS SQL Server (TSQL), Amazon RDS(SQL), Amazon Dynamo DB, S3, Terradata
+- **CI/CD:** AWS Codebuild/Codepiepline, Docker, K8, jFrog Artifactory, Azure Pipelines, CirceCI
 - **Testing:** Postman
 - **Automation:** Jenkins, AWS Cron Jobs, Azure functions
 - **Source Control:** Git, TFS
@@ -17,8 +34,8 @@
  - Healthcare
 
 ### Areas of expertise
- - Integration of various middlewares & cross platform applications
- - Reverse engineering legecy systems & generating more user friendly apps.
+ - Integration with various platforms, products & services. 
+ - Reverse engineering and re-write of legacy apps to modern cloud based solutions
  - Migration from one platform/services to another. 
  - Application architecturing & development
  - Technical Training
@@ -44,10 +61,15 @@
   - MCTS Certificate in Web Application 4.0 (75-515) certificate
 
 ## Voluntary Work
-  - President, Sparsham Charitable Society
+  - President, Sparsham Charitable Society (Promoting child education) Kochi India
+  - Voluntary activites during the Kerala Flood (2018), Trivandrum India
+  - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK
   
 ## Education 
-  - Diploma in Computer Engineering (NTTF Bengaluru) 2006-2009
+  - Bachelor of Computer Applications(BCA) - Indira Gandhi National Open University New Delhi 2010-2020
+  - Diploma in Computer Engineering -NTTF Bengaluru 2006-2009
+  - HSE  - 2006
+  - SSLC - 2004
 
 ## Contact
   - **Email : vishnu.balachandra@gmail.com**
