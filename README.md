@@ -32,6 +32,7 @@ meetings with customer as well as offshore team.
  - Banking & Financial Services - Audit/Tax/Credit Services
  - Retail 
  - Healthcare
+ - Entertainment Media - Talent/Show Management
 
 ### Areas of expertise
  - Integration with various platforms, products & services. 
@@ -41,7 +42,8 @@ meetings with customer as well as offshore team.
  - Technical Training
 
 ### Organizations 
- - **UST Global, India** - March 2020 to till date
+ - **Cognizant Technology Solutions** - December 2022 to till date
+ - **UST Global, India** - March 2020 to December 2022
  - **UST Global, Great Britain** - March 2019 to March 2020
  - **Orion Systems Integrators, India** - June 2011 to July 2013
  - **IPIX Solutions, India** -  May 2010 - June 2011
@@ -54,6 +56,7 @@ meetings with customer as well as offshore team.
   - Reverse engineered a complex caluation system and developed a new modern web application suite for an Axle & after market automobile product manufacture
   - Simplifed tax filing process 
   - Implemented solution for stock checking on retail shops. 
+  - Enhancing customer experience for management of event/talents/shows for a US based corporation with a huge fan base all over the world. 
 
 ## Certifications
   - ITIL V3 Foundation certified.
@@ -61,9 +64,10 @@ meetings with customer as well as offshore team.
   - MCTS Certificate in Web Application 4.0 (75-515) certificate
 
 ## Voluntary Work
-  - President, Sparsham Charitable Society (Promoting child education) Kochi India
+  - Executive Committee Member, Sparsham Charitable Society Kochi India (2022-)
+  - President, Sparsham Charitable Society (Promoting child education) Kochi India (2011-2022)
   - Voluntary activites during the Kerala Flood (2018), Trivandrum India
-  - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK
+  - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK (2019)
   
 ## Education 
   - Bachelor of Computer Applications(BCA) - Indira Gandhi National Open University New Delhi 2010-2020
