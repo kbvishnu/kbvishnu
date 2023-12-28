@@ -1,4 +1,4 @@
-# Kalathil Karottu Balachandran Vishnu (kbvishnu)
+[Tech Blog](https://tech.kbvishnu.com) | [Life Blog](https://life.kbvishnu.com) 
 
 ### Mission 
 An enthusiastic technical & business consultant delivering cost effective and efficient
@@ -28,11 +28,6 @@ meetings with customer as well as offshore team.
 - **RPA:** UIPath
 - **Logging:** Splunk, Dynatrace 
 
-### Business domains
- - Banking & Financial Services - Audit/Tax/Credit Services
- - Retail 
- - Healthcare
- - Entertainment Media - Talent/Show Management
 
 ### Areas of expertise
  - Integration with various platforms, products & services. 
@@ -42,12 +37,11 @@ meetings with customer as well as offshore team.
  - Technical Training
 
 ### Organizations 
- - **Cognizant Technology Solutions** - December 2022 to till date
- - **UST Global, India** - March 2020 to December 2022
- - **UST Global, Great Britain** - March 2019 to March 2020
- - **Orion Systems Integrators, India** - June 2011 to July 2013
- - **IPIX Solutions, India** -  May 2010 - June 2011
- - **Hash Solutions, India** - July 2009 - March 2010
+ - **Cognizant Technology Solutions**  
+ - **UST Global, India** 
+ - **UST Global, Great Britain**  
+ - **Orion Systems Integrators, India**  
+  
 
 ### Key Projects
   - Enhancing & Improving a complex system of React JS based front end and multiple downstream services
@@ -70,18 +64,17 @@ meetings with customer as well as offshore team.
   - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK (2019)
   
 ## Education 
-  - Bachelor of Computer Applications(BCA) - Indira Gandhi National Open University New Delhi 2010-2020
+  - Bachelor of Computer Applications(BCA) - Indira Gandhi National Open University New Delhi 2010-2013
   - Diploma in Computer Engineering -NTTF Bengaluru 2006-2009
-  - HSE  - 2006
-  - SSLC - 2004
+ 
 
 ## Contact
   - **Email : vishnu.balachandra@gmail.com**
   - **LinkedIn : https://www.linkedin.com/in/kbvishnu/**
   - Stackoverflow : https://stackoverflow.com/users/438624/kbvishnu
-  - Web : http://blog.kbvishnu.com/
+  - [Tech Blog](https://tech.kbvishnu.com)
+  - [Life Blog](https://life.kbvishnu.com) 
   
-
 <!--
 **kbvishnu/kbvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
