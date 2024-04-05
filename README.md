@@ -37,7 +37,7 @@ meetings with customer as well as offshore team.
  - Technical Training
 
 ### Organizations 
- - **Cognizant Technology Solutions**  
+ - **Cognizant Technology Solutions, Canada**  
  - **UST Global, India** 
  - **UST Global, Great Britain**  
  - **Orion Systems Integrators, India**  
