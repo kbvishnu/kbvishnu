@@ -8,8 +8,8 @@ A compassionate human being interested in associating with promotion of child
 education, human rights and open source.
 
 ### Professional Summary
-- Full Stack Senior Lead Developer with an overall professional experience in IT products & services industry
-practicing Servant Leadership & Agile delivery spanning over a decade
+- Full Stack Senior Lead Developer/ Consultant with an overall professional experience of 13 years in IT products & services industry
+practicing Servant Leadership & Agile delivery.
 - Strategized, designed, and deployed innovative solutions for Fortune 500 clients in North America & Europe
 leveraging responsive web apps, micro services & cloud.
 - Developed enterprise architectural blueprints, along with descriptive documentation for
