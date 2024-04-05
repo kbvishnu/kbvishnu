@@ -8,9 +8,9 @@ A compassionate human being interested in associating with promotion of child
 education, human rights and open source.
 
 ### Professional Summary
-- Full Stack Senior Lead Developer with 11 years of overall professional experience in IT
-practicing Servant Leadership & Agile delivery.
-- Strategized, designed, and deployed innovative solutions for Fortune 500 clients
+- Full Stack Senior Lead Developer with an overall professional experience in IT products & services industry
+practicing Servant Leadership & Agile delivery spanning over a decade
+- Strategized, designed, and deployed innovative solutions for Fortune 500 clients in North America & Europe
 leveraging responsive web apps, micro services & cloud.
 - Developed enterprise architectural blueprints, along with descriptive documentation for
 all stakeholders.
@@ -62,7 +62,7 @@ meetings with customer as well as offshore team.
   - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK (2019)
   
 ## Education 
-  - Bachelor of Computer Applications(BCA) - Indira Gandhi National Open University New Delhi 2010-2013
+  - Bachelor of Computer Applications(BCA) - IGNOU New Delhi 2010-2013
   - Diploma in Computer Engineering -NTTF Bengaluru 2006-2009
  
 
