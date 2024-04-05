@@ -69,6 +69,7 @@ meetings with customer as well as offshore team.
 ## Contact
   - **Email : vishnu.balachandra@gmail.com**
   - **LinkedIn : https://www.linkedin.com/in/kbvishnu/**
+  - **Location : Toronto. Canada**
   - Stackoverflow : https://stackoverflow.com/users/438624/kbvishnu
   - [Tech Blog](https://tech.kbvishnu.com)
   - [Life Blog](https://life.kbvishnu.com) 
