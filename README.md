@@ -60,6 +60,7 @@ meetings with customer as well as offshore team.
 ## Voluntary Work
   - Voluntary activites during the Kerala Flood (2018), Trivandrum India
   - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK (2019)
+  - Volunteer, Cognizant for Good in association with Code Platoon
   
 ## Education 
   - Bachelor of Computer Applications(BCA) - IGNOU New Delhi 2010-2013
