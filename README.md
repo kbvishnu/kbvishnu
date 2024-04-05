@@ -58,8 +58,6 @@ meetings with customer as well as offshore team.
   - MCTS Certificate in Web Application 4.0 (75-515) certificate
 
 ## Voluntary Work
-  - Executive Committee Member, Sparsham Charitable Society Kochi India (2022-)
-  - President, Sparsham Charitable Society (Promoting child education) Kochi India (2011-2022)
   - Voluntary activites during the Kerala Flood (2018), Trivandrum India
   - Volunteer, Care Care & Awareness activites, National Health Service (NHS) London UK (2019)
   
