@@ -37,6 +37,7 @@ meetings with customer as well as offshore team.
  - Technical Training
 
 ### Organizations 
+ - **Cognizant Technology Solutions, USA** 
  - **Cognizant Technology Solutions, Canada**  
  - **UST Global, India** 
  - **UST Global, Great Britain**  
@@ -50,7 +51,8 @@ meetings with customer as well as offshore team.
   - Reverse engineered a complex caluation system and developed a new modern web application suite for an Axle & after market automobile product manufacture
   - Simplifed tax filing process 
   - Implemented solution for stock checking on retail shops. 
-  - Enhancing customer experience for management of event/talents/shows for a US based corporation with a huge fan base all over the world. 
+  - Enhancing customer experience for management of event/talents/shows for a US based corporation with a huge fan base all over the world.
+  - Breaking down the complex B2B and B2C problems related to Account Servicing as part of an online banking system. 
 
 ## Certifications
   - ITIL V3 Foundation certified.
@@ -70,7 +72,7 @@ meetings with customer as well as offshore team.
 ## Contact
   - **Email : vishnu.balachandra@gmail.com**
   - **LinkedIn : https://www.linkedin.com/in/kbvishnu/**
-  - **Location : Toronto. Canada**
+  - **Location : Austin. Texas**
   - Stackoverflow : https://stackoverflow.com/users/438624/kbvishnu
   - [Tech Blog](https://tech.kbvishnu.com)
   - [Life Blog](https://life.kbvishnu.com) 
